@@ -1,0 +1,6 @@
+C:\Users\Администратор\Documents\SharpDevelop Projects\Matritsa\Matritsa\bin\Debug\Matritsa.exe.config
+C:\Users\Администратор\Documents\SharpDevelop Projects\Matritsa\Matritsa\bin\Debug\Matritsa.exe
+C:\Users\Администратор\Documents\SharpDevelop Projects\Matritsa\Matritsa\bin\Debug\Matritsa.pdb
+C:\Users\Администратор\Documents\SharpDevelop Projects\Matritsa\Matritsa\obj\Debug\Matritsa.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\SharpDevelop Projects\Matritsa\Matritsa\obj\Debug\Matritsa.exe
+C:\Users\Администратор\Documents\SharpDevelop Projects\Matritsa\Matritsa\obj\Debug\Matritsa.pdb
